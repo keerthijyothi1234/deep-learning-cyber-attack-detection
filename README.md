@@ -22,6 +22,7 @@ This project focuses on detecting cyber attacks in Industrial IoT environments u
 3. Run the Python script  
 
 ## 📸 Project Screenshots
+The system successfully detects cyber attacks with high accuracy and provides a user-friendly interface for interaction.
 
 ### Login Page
 ![Login](trustworthy_and_reliable_deep_learning/Template/images/Login.jpg)
